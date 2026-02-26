@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-scikit-surprise
-joblib
-scikit-learn
-scipy
